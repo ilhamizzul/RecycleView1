@@ -1,4 +1,4 @@
-# RecycleView1
+# RecyclerView1
 
 ![Screenshot](https://raw.githubusercontent.com/ilhamizzul/RecycleView1/master/RecycleView1_1[1].png)
 ![Screenshot](https://raw.githubusercontent.com/ilhamizzul/RecycleView1/master/RecycleView1_2[1].png)
